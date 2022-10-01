@@ -1,2 +1,1 @@
-# lt
-leetcode problem set
+Coding questions from [LeetCode](https://leetcode.com).
